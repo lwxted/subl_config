@@ -1,0 +1,6 @@
+[submodule "Packages/solarized-sublime"]
+	path = Packages/solarized-sublime
+	url = https://github.com/paulcpederson/solarized-sublime.git
+[submodule "Packages/Theme - Solarized"]
+	path = Packages/Theme - Solarized
+	url = https://github.com/paulcpederson/solarized-sublime.git

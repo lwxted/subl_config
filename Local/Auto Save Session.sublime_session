@@ -24,23 +24,7 @@
 					"file": "/Users/lwxted/Documents/Code/bash/makemehome/makemehome.sh",
 					"settings":
 					{
-						"buffer_size": 57,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/lwxted/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 856,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/lwxted/Library/Application Support/Sublime Text 3/Packages/User/SFTP.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 89,
+						"buffer_size": 223,
 						"line_ending": "Unix"
 					}
 				}
@@ -91,6 +75,7 @@
 			"file_history":
 			[
 				"/Users/lwxted/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/lwxted/Library/Application Support/Sublime Text 3/Packages/User/SFTP.sublime-settings",
 				"/Users/lwxted/Documents/Code/bash/makemehome/subl_config/makemehome.sh"
 			],
 			"find":
@@ -132,7 +117,7 @@
 			"groups":
 			[
 				{
-					"selected": 2,
+					"selected": 0,
 					"sheets":
 					[
 						{
@@ -141,84 +126,21 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 57,
+								"buffer_size": 223,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										57,
-										57
+										107,
+										107
 									]
 								],
 								"settings":
 								{
 									"incomplete_sync": null,
 									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/Users/lwxted/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 856,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										424,
-										424
-									]
-								],
-								"settings":
-								{
-									"auto_complete": true,
-									"incomplete_sync": null,
-									"syntax": "Packages/JavaScript/JSON.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/Users/lwxted/Library/Application Support/Sublime Text 3/Packages/User/SFTP.sublime-settings",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 89,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										33,
-										75
-									]
-								],
-								"settings":
-								{
-									"auto_complete": true,
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/JavaScript/JSON.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,

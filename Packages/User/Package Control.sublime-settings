@@ -6,12 +6,15 @@
 	[
 		"Emmet",
 		"GitGutter",
+		"LaTeXing",
 		"Package Control",
 		"Preap",
 		"Sass",
 		"SFTP",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
 		"SublimeOnSaveBuild"
 	]
 }

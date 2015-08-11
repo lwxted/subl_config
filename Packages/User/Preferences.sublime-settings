@@ -2,7 +2,7 @@
 	"bold_folder_labels": true,
 	"caret_extra_width": 1,
 	"caret_style": "smooth",
-	"color_scheme": "Packages/Preap/Schemes/Preap.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Preap (SL).tmTheme",
 	"copy_with_empty_selection": false,
 	"draw_minimap_border": true,
 	"enable_tab_scrolling": false,
@@ -22,6 +22,10 @@
 	"match_tags": false,
 	"newline_at_eof": true,
 	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		80
+	],
 	"show_full_path": false,
 	"static_modified_tab": true,
 	"tab_size": 2,
@@ -30,6 +34,5 @@
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true,
-	"wrap_width": 80,
-	"rulers": [80]
+	"wrap_width": 80
 }

@@ -27,6 +27,22 @@
 						"buffer_size": 57,
 						"line_ending": "Unix"
 					}
+				},
+				{
+					"file": "/Users/lwxted/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 856,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/lwxted/Library/Application Support/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 89,
+						"line_ending": "Unix"
+					}
 				}
 			],
 			"build_system": "",
@@ -36,18 +52,27 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 0.0,
-				"last_filter": "",
+				"height": 200.0,
+				"last_filter": "install",
 				"selected_items":
 				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
 				],
-				"width": 0.0
+				"width": 417.0
 			},
 			"console":
 			{
-				"height": 0.0,
+				"height": 153.0,
 				"history":
 				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 				]
 			},
 			"distraction_free":
@@ -61,20 +86,20 @@
 			},
 			"expanded_folders":
 			[
-				"/Users/lwxted/Documents/Code/bash/makemehome",
-				"/Users/lwxted/Documents/Code/bash/makemehome/subl_config"
+				"/Users/lwxted/Documents/Code/bash/makemehome"
 			],
 			"file_history":
 			[
+				"/Users/lwxted/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 				"/Users/lwxted/Documents/Code/bash/makemehome/subl_config/makemehome.sh"
 			],
 			"find":
 			{
-				"height": 0.0
+				"height": 49.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 170.0,
 				"where_history":
 				[
 				]
@@ -107,7 +132,7 @@
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 2,
 					"sheets":
 					[
 						{
@@ -129,7 +154,71 @@
 								],
 								"settings":
 								{
+									"incomplete_sync": null,
 									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/lwxted/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 856,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										424,
+										424
+									]
+								],
+								"settings":
+								{
+									"auto_complete": true,
+									"incomplete_sync": null,
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/lwxted/Library/Application Support/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 89,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										33,
+										75
+									]
+								],
+								"settings":
+								{
+									"auto_complete": true,
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/JavaScript/JSON.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -143,7 +232,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 22.0
 			},
 			"input":
 			{
@@ -176,12 +265,16 @@
 			{
 				"height": 0.0
 			},
+			"output.sftp":
+			{
+				"height": 0.0
+			},
 			"pinned_build_system": "",
 			"position": "1 398 198 640 502 0 0 1440 877 ",
 			"project": "",
 			"replace":
 			{
-				"height": 0.0
+				"height": 40.0
 			},
 			"save_all_on_build": true,
 			"select_file":

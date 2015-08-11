@@ -1,3 +1,34 @@
 {
-	"font_size": 14
+	"bold_folder_labels": true,
+	"caret_extra_width": 1,
+	"caret_style": "smooth",
+	"color_scheme": "Packages/Preap/Schemes/Preap.tmTheme",
+	"copy_with_empty_selection": false,
+	"draw_minimap_border": true,
+	"enable_tab_scrolling": false,
+	"fade_fold_buttons": false,
+	"findreplace_small": true,
+	"font_face": "Ubuntu Mono",
+	"font_size": 17,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"match_brackets_content": false,
+	"match_selection": false,
+	"match_tags": false,
+	"newline_at_eof": true,
+	"overlay_scroll_bars": "enabled",
+	"show_full_path": false,
+	"static_modified_tab": true,
+	"tab_size": 2,
+	"tabs_small": true,
+	"theme": "preap.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true,
+	"wrap_width": 80
 }

@@ -4,12 +4,15 @@
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
+		"All Autocomplete",
 		"Emmet",
 		"GitGutter",
 		"LaTeXing",
 		"Package Control",
 		"Preap",
 		"Sass",
+		"SASS Build",
 		"SFTP",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",

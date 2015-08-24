@@ -6,6 +6,7 @@
 	"copy_with_empty_selection": false,
 	"draw_minimap_border": true,
 	"enable_tab_scrolling": false,
+	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
 	"findreplace_small": true,
 	"font_face": "Ubuntu Mono",
@@ -20,7 +21,6 @@
 	"match_brackets_content": false,
 	"match_selection": false,
 	"match_tags": false,
-	"newline_at_eof": true,
 	"overlay_scroll_bars": "enabled",
 	"rulers":
 	[

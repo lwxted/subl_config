@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -6,10 +7,11 @@
 	[
 		"AdvancedNewFile",
 		"All Autocomplete",
-		"Emmet",
-		"GitGutter",
+		"AutoDocstring",
+		"DocBlockr",
 		"LaTeXing",
 		"Package Control",
+		"PackageResourceViewer",
 		"Preap",
 		"Sass",
 		"SASS Build",
@@ -18,7 +20,9 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-annotations",
+		"SublimeLinter-pylint",
 		"SublimeOnSaveBuild",
-		"Terminal"
+		"Terminal",
+		"X86 and X86_64 assembly"
 	]
 }

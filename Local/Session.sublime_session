@@ -1,24 +1,304 @@
 {
 	"folder_history":
 	[
+		"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p2/p2",
+		"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p2/p2/p2",
+		"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1",
+		"/Users/lwxted/Documents/repo/competition_programming/ctci",
+		"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p0",
+		"/Users/lwxted/Documents/repo/competition_programming/leetcode",
+		"/Users/lwxted/Dropbox/Carnegie Mellon University/Credit Cards",
+		"/Users/lwxted/Documents/repo/competition_programming/std_libraries",
+		"/Users/lwxted/Documents/repo/remarkup",
+		"/Users/lwxted/Documents/repo/remarkup/engine",
+		"/Users/lwxted/Documents/repo/m0ve",
+		"/Users/lwxted/Documents/repo/notedown",
 		"/Users/lwxted/Documents/Code/bash/makemehome"
 	],
 	"last_version": 3083,
-	"last_window_id": 5,
+	"last_window_id": 108,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 855.0,
+		"new_window_height": 1005.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"CONSO",
+						"console_height"
+					],
+					[
+						"board_game_vei",
+						"board_game_view_private	(board_game_view_private.h)"
+					],
+					[
+						"last",
+						"last_flash_cursor"
+					],
+					[
+						"seconds",
+						"seconds_elapsed_addr"
+					],
+					[
+						"lastS",
+						"lastSecondElapsed"
+					],
+					[
+						"selecotr_",
+						"selector_size_index"
+					],
+					[
+						"COLOR_S",
+						"COLOR_SCOREBOARD"
+					],
+					[
+						"COL",
+						"COLOR_SCOREBOARD"
+					],
+					[
+						"selec",
+						"selector_current"
+					],
+					[
+						"COLOR_SE",
+						"COLOR_SELECTED"
+					],
+					[
+						"size_s",
+						"size_selector_option_len"
+					],
+					[
+						"size_",
+						"size_selector_option_pos"
+					],
+					[
+						"FGND",
+						"FGND_WHITE	(instruction_view.c)"
+					],
+					[
+						"selector_co",
+						"selector_color_index"
+					],
+					[
+						"curr",
+						"curr_selector"
+					],
+					[
+						"selectors_",
+						"selectors_col_pos"
+					],
+					[
+						"NUM_",
+						"NUM_GAME_TITLE_STR"
+					],
+					[
+						"callb",
+						"callback_func"
+					],
+					[
+						"cons",
+						"console_height"
+					],
+					[
+						"ops_",
+						"ops_row_pos"
+					],
+					[
+						"board_flo",
+						"board_flood_fill"
+					],
+					[
+						"FGND_BL",
+						"FGND_BLACK	(video_defines.h)"
+					],
+					[
+						"console_",
+						"console_width"
+					],
+					[
+						"draw_game",
+						"draw_game_instructions"
+					],
+					[
+						"shared",
+						"shared_game_data"
+					],
+					[
+						"share",
+						"shared_game_data	(shared_game_data.c)"
+					],
+					[
+						"hide",
+						"hide_cursor	(p1kern.h)"
+					],
+					[
+						"curr_Cur",
+						"curr_cursor_col"
+					],
+					[
+						"vide",
+						"video_memory_at"
+					],
+					[
+						"vid",
+						"video_memory_at"
+					],
+					[
+						"MS_PER",
+						"MS_PER_TICK"
+					],
+					[
+						"timer_",
+						"timer_counter_x"
+					],
+					[
+						"select",
+						"selected_cell_col"
+					],
+					[
+						"selected",
+						"selected_cell_row"
+					],
+					[
+						"selected_c",
+						"selected_cell_row"
+					],
+					[
+						"selected_",
+						"selected_cell_col"
+					],
+					[
+						"MINMI",
+						"MINIMUM_NUM_COLORS"
+					],
+					[
+						"timer_in",
+						"timer_interrupt_handler	(timer_interrupt_handler.c)"
+					],
+					[
+						"CONSOLE",
+						"CONSOLE_WIDTH"
+					],
+					[
+						"curos",
+						"cursor_real_col"
+					],
+					[
+						"chara",
+						"character_addr"
+					],
+					[
+						"piv",
+						"pivotIndex"
+					],
+					[
+						"merges",
+						"mergeSortInplace"
+					],
+					[
+						"prin",
+						"printValidParens"
+					],
+					[
+						"less_",
+						"less_than_three_strings"
+					],
+					[
+						"TYPE_STR",
+						"TYPE_STRING_ARRAY	(traceback2.c)"
+					],
+					[
+						"memr",
+						"memory_accessible"
+					],
+					[
+						"retr",
+						"retrieve_word_from_trie"
+					],
+					[
+						"copy",
+						"copy_to_index"
+					],
+					[
+						"MAX_FUNCTION",
+						"MAX_FUNCTION_ENTRY_SIZE_BYTES"
+					],
+					[
+						"attribu",
+						"attributesHTML"
+					],
+					[
+						"_appl",
+						"_applyInlineRules	(BaseBlockRule.py)"
+					],
+					[
+						"FL",
+						"FLAVOR_BLOG_POST"
+					],
+					[
+						"Notedo",
+						"NotedownState"
+					],
+					[
+						"if",
+						"ifmain	if __name__ == '__main__'"
+					]
 				]
 			},
 			"build_system_choices":
 			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/LaTeXing/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/LaTeXing/LaTeX.sublime-build",
+							"Clean up Files"
+						]
+					],
+					[
+						"Packages/LaTeXing/LaTeX.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
 			],
 			"build_varint": "",
 			"command_palette":
@@ -28,7 +308,39 @@
 				"selected_items":
 				[
 					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"syntax latex",
+						"Set Syntax: LaTeX"
+					],
+					[
+						"asse",
+						"Set Syntax: x86_64 Assembly v2"
+					],
+					[
+						"assembl",
+						"Set Syntax: x86_64 Assembly v2"
+					],
+					[
 						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"plain",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"run",
+						"Build With: C++ Single File - Run"
+					],
+					[
+						"minim",
+						"View: Toggle Minimap"
+					],
+					[
+						"insta",
 						"Package Control: Install Package"
 					],
 					[
@@ -36,7 +348,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 435.0
+				"width": 366.0
 			},
 			"console":
 			{
@@ -58,20 +370,144 @@
 			"file_history":
 			[
 				"/Users/lwxted/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/Users/lwxted/Dropbox/Code/website/tedli.me/tedli.me/setup.sh",
-				"/Users/lwxted/Documents/Code/bash/makemehome/makemehome.sh",
-				"/Users/lwxted/Library/Application Support/Sublime Text 3/Packages/User/SFTP.sublime-settings",
-				"/Users/lwxted/Documents/Code/bash/makemehome/subl_config/makemehome.sh"
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p2/p2/sftp-config.json",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p2/p2/p2/sftp-config.json",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/sftp-config.json",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p2/p2/README.STARTING_P2",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p2/p2/spec/syscall_int.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p2/p2/user/libsyscall/syscall.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p2/p2/vq_challenge/variable_queue.h",
+				"/Users/lwxted/Desktop/shortcut",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p2/p2/vq_challenge/vqtest.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/36-401/HW3/HW3.tex",
+				"/Users/lwxted/Desktop/bea-2006.csv",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/interrupt_wrapper.S",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/keyboard_driver.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/console_helper.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/board_game_view.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/title_view.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/README.dox",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/timer_initialize.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/timer_driver.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/shared_game_data.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/scancode_queue.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/instruction_view.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/handler_install.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/game.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/flood_it_board.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/console_driver.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/board_game_view.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/view_helper.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/title_view_private.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/title_view.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/timer_initialize.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/timer_driver.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/shared_game_data.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/scancode_queue.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/keyboard_driver.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/interrupt_wrapper.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/instruction_view_private.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/idt_helper.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/instruction_view.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/flood_it_board_private.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/flood_it_board.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/console_helper.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/board_game_view_private.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/x86/asm.S",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/README.STARTING_P1",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/spec/p1kern.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/x86/video_defines.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/view_helper.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/inc/assert.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/p1test/410_test.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/config.mk",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/temp/board_game.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/temp/board_game.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/board_game.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/board_game.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/x86/interrupt_defines.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/x86/timer_defines.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/fake.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/drivers.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/timer_handler.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/timer_handler.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/timer_interrupt.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/interrupt_wrapper.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/scancode_queue.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/board_game.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/RNG/mt19937int.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/x86/keyhelp.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/x86/keyhelp.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/string/string.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/stdio/stdio.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/RNG/mt19937int.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/stdio/sscanf.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/stdio/putchar.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/boot/util.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/misc/semisolver.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/spec/syscall_int.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/x86/interrupts.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/x86/asm.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/timer_interrupt_wrapper.S",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/boot/head.S",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/stdio/doprnt.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/timer_interrupt_handler.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/x86/seg.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/x86/pic.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/entry.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/x86/idt.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/.md5s",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/stdio/puts.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/stdio/printf.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/simics/simics.h",
+				"/Users/lwxted/Desktop/a.py",
+				"/Users/lwxted/Desktop/interview",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/simics/simics_c.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/simics/simics.S",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/simics/kernel.mk",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/inc/malloc.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/inc/asm_style.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/malloc/calloc.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/kernel.lds",
+				"/Users/lwxted/Documents/repo/competition_programming/ctci/110_9_10.cpp",
+				"/Users/lwxted/Documents/repo/competition_programming/ctci/110_9_11.py",
+				"/Users/lwxted/Documents/repo/competition_programming/ctci/110_9_8.py",
+				"/Users/lwxted/Documents/repo/competition_programming/ctci/110_9_10.py",
+				"/Users/lwxted/Documents/repo/competition_programming/ctci/basic_algos.py",
+				"/Users/lwxted/Documents/repo/competition_programming/ctci/110_9_8.cpp",
+				"/Users/lwxted/Documents/repo/competition_programming/ctci/110_9_6.py",
+				"/Users/lwxted/Documents/repo/competition_programming/ctci/109_9_5.py",
+				"/Users/lwxted/Desktop/crawlers/tmp.py",
+				"/Users/lwxted/Desktop/crawlers/temp.py",
+				"/Users/lwxted/Desktop/crawlers/163.py",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/36-401/HW1.tex",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p0/doxygen.conf",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p0/README.elftools",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p0/tests/alarming_test.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p0/symtabgen.py",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p0/tests/evil_test.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p0/tests/tmp-sample-output",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p0/traceback/traceback2.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p0/doxygen.warn",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p0/traceback/system_util.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p0/traceback/traceback_internal.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p0/tests/my_test.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p0/traceback/system_util.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p0/tests/my_recur.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p0/traceback/traceback_util.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p0/traceback/traceback_util.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p0/traceback/traceback_helpers.h"
 			],
 			"find":
 			{
-				"height": 49.0
+				"height": 22.0
 			},
 			"find_in_files":
 			{
 				"height": 170.0,
 				"where_history":
 				[
+					""
 				]
 			},
 			"find_state":
@@ -79,7 +515,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"preap"
+					"git",
+					"    ",
+					"#define",
+					"status",
+					"readfile",
+					"fork",
+					"y_i",
+					"x_i",
+					"y_i",
+					"\\overline{X_i}",
+					"enable_interrupts()",
+					"enable_interrupt()",
+					"assert(",
+					"idt_base",
+					"extern int",
+					"extern'",
+					"100",
+					"% 25 ==",
+					"25",
+					"last_flash_cursor",
+					"flash_cursor",
+					"% 25",
+					"25",
+					"disable_interrupts();",
+					"enable_interrupts()",
+					"enable_interrupt()",
+					"enable_interrupt",
+					"fixme",
+					"todo",
+					"term_color",
+					"todo",
+					"putbytes",
+					"readchar()",
+					"readchar",
+					"tv_main_loop",
+					"tv_register_keypress",
+					"COLOR_LIGHT",
+					"enable_interrupts",
+					"assert(!ret_",
+					"bgv_init",
+					"iv_draw_instructions",
+					"iv_handle_keypress",
+					"iv_main_loop",
+					"timer_initialize",
+					"board_get",
+					"board_generate_random",
+					"iv_register_keypress",
+					"disable_interrupts",
+					"board_fill_color",
+					"board_init",
+					"num_ticks",
+					"set_cursor",
+					"hide_cursor",
+					"video_memory_at",
+					"console_width",
+					"fixme",
+					"todo",
+					"recent victories",
+					"NUM_INSTRUCTIONS",
+					"instruction_ops",
+					"instruction_pause",
+					"instruction_ops",
+					"instruction_timer",
+					"todo",
+					"bgv_show_instructions",
+					"DEFAULT_COLOR",
+					"bgv_update_ops",
+					"bgv_mark",
+					"bgv_select",
+					"bgv_check_com",
+					"bgv_show_title_view",
+					"bgv_select",
+					"bgv_center_message_with_color",
+					"bgv_main_loop",
+					"bgv_register_keypress",
+					"bgv_register",
+					"bgv_handle_keypress",
+					"bgv_draw_instructions",
+					"fixme",
+					"todo",
+					"tv_draw_all",
+					"iv_init",
+					"readchar(",
+					"sgenrand",
+					"fixme",
+					"bgv_flash_cursor",
+					"last_flash_cursor",
+					"bgv_flash_cursor",
+					"cursor_flash_on",
+					"flash_cursor",
+					"bgv_flash_cursor",
+					"board_color(",
+					"sel_row",
+					"if (!",
+					"game_paused",
+					"!game_paused",
+					"game.c",
+					"seconds_elapsed",
+					"last_seconds_elapsed",
+					"addr",
+					"secondsElapsed",
+					"most recent games",
+					"sgenrand",
+					"srand",
+					"bgv_victory",
+					"victory",
+					"bgv_update_timer",
+					"seconds_elapsed",
+					"update_timer",
+					"update_time",
+					"seconds_elapsed",
+					"extern int",
+					"extern int se",
+					"seconds_elapsed",
+					"secondsElapsed",
+					"seconds_elapsed",
+					"_e",
+					"secondsElapsed",
+					"time_row_pos",
+					"ops",
+					"lastSecondsElapsed",
+					"secondsElapsed",
+					"register_key",
+					"color_scoreboard",
+					"COLOR_SELECTING",
+					"blue",
+					"scoreboard",
+					"scoreboard_width"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -103,13 +666,17 @@
 				"height": 41.0
 			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 212.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
 			"output.sftp":
 			{
-				"height": 0.0
+				"height": 102.0
 			},
 			"pinned_build_system": "",
 			"replace":
@@ -123,6 +690,518 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"libsyscall",
+						"user/libsyscall/syscall.c"
+					],
+					[
+						"libsyscall.a",
+						"user/libsyscall/syscall.c"
+					],
+					[
+						"readm",
+						"README.dox"
+					],
+					[
+						"handler",
+						"kern/handler_install.c"
+					],
+					[
+						"dox",
+						"README.dox"
+					],
+					[
+						"shared",
+						"kern/shared_game_data.c"
+					],
+					[
+						"scanc",
+						"kern/scancode_queue.c"
+					],
+					[
+						"scancod",
+						"kern/inc/scancode_queue.h"
+					],
+					[
+						"timer_",
+						"kern/timer_initialize.c"
+					],
+					[
+						"tit",
+						"kern/title_view.c"
+					],
+					[
+						"titl",
+						"kern/inc/title_view.h"
+					],
+					[
+						"driver",
+						"kern/keyboard_driver.c"
+					],
+					[
+						"keyboard_",
+						"kern/keyboard_driver.c"
+					],
+					[
+						"vide",
+						"410kern/x86/video_defines.h"
+					],
+					[
+						"console",
+						"kern/console_driver.c"
+					],
+					[
+						"title_v",
+						"kern/inc/title_view_private.h"
+					],
+					[
+						"board_",
+						"kern/board_game_view.c"
+					],
+					[
+						"tite",
+						"kern/inc/title_view.h"
+					],
+					[
+						"view_h",
+						"kern/view_helper.c"
+					],
+					[
+						"video",
+						"410kern/x86/video_defines.h"
+					],
+					[
+						"timer_d",
+						"kern/timer_driver.c"
+					],
+					[
+						"scanco",
+						"kern/scancode_queue.c"
+					],
+					[
+						"floo",
+						"kern/flood_it_board.c"
+					],
+					[
+						"instructio",
+						"kern/instruction_view.c"
+					],
+					[
+						"game.c",
+						"kern/game.c"
+					],
+					[
+						"timer",
+						"kern/timer_driver.c"
+					],
+					[
+						"keyboard_dr",
+						"kern/keyboard_driver.c"
+					],
+					[
+						"interr",
+						"kern/interrupt_wrapper.S"
+					],
+					[
+						"conso",
+						"kern/inc/console_helper.h"
+					],
+					[
+						"instruct",
+						"kern/instruction_view.c"
+					],
+					[
+						"asser",
+						"410kern/inc/assert.h"
+					],
+					[
+						"assert",
+						"410kern/inc/assert.h"
+					],
+					[
+						"asse",
+						"410kern/inc/assert.h"
+					],
+					[
+						"board_ga",
+						"kern/inc/board_game_view.h"
+					],
+					[
+						"instruc",
+						"kern/instruction_view.c"
+					],
+					[
+						"410",
+						"410kern/p1test/410_test.c"
+					],
+					[
+						"410_te",
+						"410kern/p1test/410_test.c"
+					],
+					[
+						"p1ker",
+						"spec/p1kern.h"
+					],
+					[
+						"board",
+						"kern/inc/board_game_view.h"
+					],
+					[
+						"game",
+						"kern/game.c"
+					],
+					[
+						"confi",
+						"config.mk"
+					],
+					[
+						"bgv",
+						"kern/board_game_view.c"
+					],
+					[
+						"shared_",
+						"kern/shared_game_data.c"
+					],
+					[
+						"tv_",
+						"kern/title_view.c"
+					],
+					[
+						"tv",
+						"kern/inc/title_view.h"
+					],
+					[
+						"bgv_",
+						"kern/board_game_view.c"
+					],
+					[
+						"board_game",
+						"kern/inc/board_game_view.h"
+					],
+					[
+						"gam",
+						"kern/board_game_view.c"
+					],
+					[
+						"view",
+						"kern/inc/view_helper.h"
+					],
+					[
+						"view_",
+						"kern/view_helper.c"
+					],
+					[
+						"consol",
+						"kern/inc/console_helper.h"
+					],
+					[
+						"vid",
+						"410kern/x86/video_defines.h"
+					],
+					[
+						"console_",
+						"kern/console_helper.c"
+					],
+					[
+						"title_",
+						"kern/inc/title_view.h"
+					],
+					[
+						"title",
+						"kern/title_view.c"
+					],
+					[
+						"instruction",
+						"kern/instruction_view.c"
+					],
+					[
+						"view_he",
+						"kern/view_helper.c"
+					],
+					[
+						"flo",
+						"kern/inc/flood_it_board.h"
+					],
+					[
+						"flood",
+						"kern/flood_it_board.c"
+					],
+					[
+						"titlve",
+						"kern/inc/title_view.h"
+					],
+					[
+						"baord_g",
+						"kern/inc/board_game_view.h"
+					],
+					[
+						"conf",
+						"config.mk"
+					],
+					[
+						"p1ke",
+						"spec/p1kern.h"
+					],
+					[
+						"define",
+						"410kern/x86/interrupt_defines.h"
+					],
+					[
+						"board_gam",
+						"kern/board_game.c"
+					],
+					[
+						"vdi",
+						"410kern/x86/video_defines.h"
+					],
+					[
+						"title_vi",
+						"kern/inc/title_view.h"
+					],
+					[
+						"console_dri",
+						"kern/console_driver.c"
+					],
+					[
+						"p1k",
+						"spec/p1kern.h"
+					],
+					[
+						"config",
+						"config.mk"
+					],
+					[
+						"410_",
+						"410kern/p1test/410_test.c"
+					],
+					[
+						"timer_def",
+						"410kern/x86/timer_defines.h"
+					],
+					[
+						"interrupt_wrapper",
+						"kern/inc/interrupt_wrapper.h"
+					],
+					[
+						"p1",
+						"spec/p1kern.h"
+					],
+					[
+						"kern.h",
+						"spec/p1kern.h"
+					],
+					[
+						"timer_defines",
+						"410kern/x86/timer_defines.h"
+					],
+					[
+						"interrupt_defines",
+						"410kern/x86/interrupt_defines.h"
+					],
+					[
+						"interrupt",
+						"kern/interrupt_wrapper.S"
+					],
+					[
+						"dirver",
+						"kern/drivers.c"
+					],
+					[
+						"intt",
+						"kern/inc/interrupt_wrapper.h"
+					],
+					[
+						"gmae.c",
+						"kern/game.c"
+					],
+					[
+						"scancode_",
+						"kern/scancode_queue.c"
+					],
+					[
+						"vi",
+						"410kern/x86/video_defines.h"
+					],
+					[
+						"string",
+						"410kern/string/string.h"
+					],
+					[
+						"stdio",
+						"410kern/stdio/stdio.h"
+					],
+					[
+						"19937",
+						"410kern/RNG/mt19937int.c"
+					],
+					[
+						"mt19937int.h",
+						"410kern/RNG/mt19937int.h"
+					],
+					[
+						"keyhelp.c",
+						"410kern/x86/keyhelp.c"
+					],
+					[
+						"keyhelp",
+						"410kern/x86/keyhelp.h"
+					],
+					[
+						"game.",
+						"kern/game.c"
+					],
+					[
+						"putchar.c",
+						"410kern/stdio/putchar.c"
+					],
+					[
+						"key",
+						"410kern/x86/keyhelp.h"
+					],
+					[
+						"fake",
+						"kern/fake.c"
+					],
+					[
+						"interrup",
+						"kern/interrupt_wrapper.S"
+					],
+					[
+						"keyhel",
+						"410kern/x86/keyhelp.c"
+					],
+					[
+						"timer_interrupt_wrapper",
+						"kern/timer_interrupt_wrapper.S"
+					],
+					[
+						"asm.h",
+						"410kern/x86/asm.h"
+					],
+					[
+						"interrupt_def",
+						"410kern/x86/interrupt_defines.h"
+					],
+					[
+						"timer_dr",
+						"kern/timer_driver.c"
+					],
+					[
+						"410_tst",
+						"410kern/p1test/410_test.c"
+					],
+					[
+						"asm",
+						"410kern/x86/asm.h"
+					],
+					[
+						"inter",
+						"410kern/x86/interrupt_defines.h"
+					],
+					[
+						"seg.h",
+						"410kern/x86/seg.h"
+					],
+					[
+						"idt",
+						"410kern/x86/idt.h"
+					],
+					[
+						"timer_defines.h",
+						"410kern/x86/timer_defines.h"
+					],
+					[
+						"puts",
+						"410kern/stdio/puts.c"
+					],
+					[
+						"printf",
+						"410kern/stdio/printf.c"
+					],
+					[
+						"putch",
+						"410kern/stdio/putchar.c"
+					],
+					[
+						"putchar",
+						"410kern/stdio/putchar.c"
+					],
+					[
+						"stdio.c",
+						"410kern/stdio/puts.c"
+					],
+					[
+						"p1kern",
+						"spec/p1kern.h"
+					],
+					[
+						"video_defines.h",
+						"410kern/x86/video_defines.h"
+					],
+					[
+						"asm.s",
+						"410kern/x86/asm.S"
+					],
+					[
+						"9_5",
+						"109_9_5.py"
+					],
+					[
+						"doxy",
+						"doxygen.conf"
+					],
+					[
+						"reade",
+						"README.elftools"
+					],
+					[
+						"rea",
+						"README.STARTING_P0"
+					],
+					[
+						"my_test",
+						"tests/my_test.c"
+					],
+					[
+						"traceback_",
+						"traceback/traceback_internal.h"
+					],
+					[
+						"traceback.h",
+						"traceback/traceback.h"
+					],
+					[
+						"add",
+						"tests/add_one.S"
+					],
+					[
+						"traceback.s",
+						"traceback/traceback_helpers.S"
+					],
+					[
+						"helper",
+						"traceback/traceback_helpers.S"
+					],
+					[
+						"traceback.c",
+						"traceback/traceback2.c"
+					],
+					[
+						"traceback",
+						"traceback/traceback.c"
+					],
+					[
+						"traceback_glo",
+						"traceback/traceback_globals.c"
+					],
+					[
+						"void",
+						"tests/voidstar_test.c"
+					],
+					[
+						"traceback_inter",
+						"traceback/traceback_internal.h"
+					]
 				],
 				"width": 0.0
 			},
@@ -144,17 +1223,17 @@
 				],
 				"width": 0.0
 			},
-			"show_minimap": true,
+			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 208.0,
+			"side_bar_width": 247.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 1436.0
+		"new_window_width": 755.0
 	},
 	"windows":
 	[
@@ -163,38 +1242,324 @@
 			{
 				"selected_items":
 				[
+					[
+						"CONSO",
+						"console_height"
+					],
+					[
+						"board_game_vei",
+						"board_game_view_private	(board_game_view_private.h)"
+					],
+					[
+						"last",
+						"last_flash_cursor"
+					],
+					[
+						"seconds",
+						"seconds_elapsed_addr"
+					],
+					[
+						"lastS",
+						"lastSecondElapsed"
+					],
+					[
+						"selecotr_",
+						"selector_size_index"
+					],
+					[
+						"COLOR_S",
+						"COLOR_SCOREBOARD"
+					],
+					[
+						"COL",
+						"COLOR_SCOREBOARD"
+					],
+					[
+						"selec",
+						"selector_current"
+					],
+					[
+						"COLOR_SE",
+						"COLOR_SELECTED"
+					],
+					[
+						"size_s",
+						"size_selector_option_len"
+					],
+					[
+						"size_",
+						"size_selector_option_pos"
+					],
+					[
+						"FGND",
+						"FGND_WHITE	(instruction_view.c)"
+					],
+					[
+						"selector_co",
+						"selector_color_index"
+					],
+					[
+						"curr",
+						"curr_selector"
+					],
+					[
+						"selectors_",
+						"selectors_col_pos"
+					],
+					[
+						"NUM_",
+						"NUM_GAME_TITLE_STR"
+					],
+					[
+						"callb",
+						"callback_func"
+					],
+					[
+						"cons",
+						"console_height"
+					],
+					[
+						"ops_",
+						"ops_row_pos"
+					],
+					[
+						"board_flo",
+						"board_flood_fill"
+					],
+					[
+						"FGND_BL",
+						"FGND_BLACK	(video_defines.h)"
+					],
+					[
+						"console_",
+						"console_width"
+					],
+					[
+						"draw_game",
+						"draw_game_instructions"
+					],
+					[
+						"shared",
+						"shared_game_data"
+					],
+					[
+						"share",
+						"shared_game_data	(shared_game_data.c)"
+					],
+					[
+						"hide",
+						"hide_cursor	(p1kern.h)"
+					],
+					[
+						"curr_Cur",
+						"curr_cursor_col"
+					],
+					[
+						"vide",
+						"video_memory_at"
+					],
+					[
+						"vid",
+						"video_memory_at"
+					],
+					[
+						"MS_PER",
+						"MS_PER_TICK"
+					],
+					[
+						"timer_",
+						"timer_counter_x"
+					],
+					[
+						"select",
+						"selected_cell_col"
+					],
+					[
+						"selected",
+						"selected_cell_row"
+					],
+					[
+						"selected_c",
+						"selected_cell_row"
+					],
+					[
+						"selected_",
+						"selected_cell_col"
+					],
+					[
+						"MINMI",
+						"MINIMUM_NUM_COLORS"
+					],
+					[
+						"timer_in",
+						"timer_interrupt_handler	(timer_interrupt_handler.c)"
+					],
+					[
+						"CONSOLE",
+						"CONSOLE_WIDTH"
+					],
+					[
+						"curos",
+						"cursor_real_col"
+					],
+					[
+						"chara",
+						"character_addr"
+					],
+					[
+						"piv",
+						"pivotIndex"
+					],
+					[
+						"merges",
+						"mergeSortInplace"
+					],
+					[
+						"prin",
+						"printValidParens"
+					],
+					[
+						"less_",
+						"less_than_three_strings"
+					],
+					[
+						"TYPE_STR",
+						"TYPE_STRING_ARRAY	(traceback2.c)"
+					],
+					[
+						"memr",
+						"memory_accessible"
+					],
+					[
+						"retr",
+						"retrieve_word_from_trie"
+					],
+					[
+						"copy",
+						"copy_to_index"
+					],
+					[
+						"MAX_FUNCTION",
+						"MAX_FUNCTION_ENTRY_SIZE_BYTES"
+					],
+					[
+						"attribu",
+						"attributesHTML"
+					],
+					[
+						"_appl",
+						"_applyInlineRules	(BaseBlockRule.py)"
+					],
+					[
+						"FL",
+						"FLAVOR_BLOG_POST"
+					],
+					[
+						"Notedo",
+						"NotedownState"
+					],
+					[
+						"if",
+						"ifmain	if __name__ == '__main__'"
+					]
 				]
 			},
 			"buffers":
 			[
-				{
-					"contents": "Package Control Messages\n========================\n\nAdvancedNewFile:\n---------------\n\n  Thank you for installing the AdvancedNewFile plugin.\n  \n  For more information please visit https://github.com/skuroda/Sublime-AdvancedNewFile.\n  \n  Note you may need to restart Sublime Text after installing this plugin.\n  \n  If you have any questions, comments, or run into issues, please let me know! Hope you enjoy the plugin.\n  \n  Thank you!\n  ",
-					"settings":
-					{
-						"buffer_size": 435,
-						"line_ending": "Unix",
-						"name": "Package Control Messages",
-						"scratch": true
-					}
-				}
 			],
 			"build_system": "",
 			"build_system_choices":
 			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/LaTeXing/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/LaTeXing/LaTeX.sublime-build",
+							"Clean up Files"
+						]
+					],
+					[
+						"Packages/LaTeXing/LaTeX.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
 			],
 			"build_varint": "",
 			"command_palette":
 			{
 				"height": 368.0,
-				"last_filter": "insta",
+				"last_filter": "",
 				"selected_items":
 				[
 					[
-						"insta",
-						"Package Control: Install Package"
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"syntax latex",
+						"Set Syntax: LaTeX"
+					],
+					[
+						"asse",
+						"Set Syntax: x86_64 Assembly v2"
+					],
+					[
+						"assembl",
+						"Set Syntax: x86_64 Assembly v2"
 					],
 					[
 						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"plain",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"run",
+						"Build With: C++ Single File - Run"
+					],
+					[
+						"minim",
+						"View: Toggle Minimap"
+					],
+					[
+						"insta",
 						"Package Control: Install Package"
 					],
 					[
@@ -202,7 +1567,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 435.0
+				"width": 366.0
 			},
 			"console":
 			{
@@ -224,10 +1589,133 @@
 			"file_history":
 			[
 				"/Users/lwxted/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/Users/lwxted/Dropbox/Code/website/tedli.me/tedli.me/setup.sh",
-				"/Users/lwxted/Documents/Code/bash/makemehome/makemehome.sh",
-				"/Users/lwxted/Library/Application Support/Sublime Text 3/Packages/User/SFTP.sublime-settings",
-				"/Users/lwxted/Documents/Code/bash/makemehome/subl_config/makemehome.sh"
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p2/p2/sftp-config.json",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p2/p2/p2/sftp-config.json",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/sftp-config.json",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p2/p2/README.STARTING_P2",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p2/p2/spec/syscall_int.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p2/p2/user/libsyscall/syscall.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p2/p2/vq_challenge/variable_queue.h",
+				"/Users/lwxted/Desktop/shortcut",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p2/p2/vq_challenge/vqtest.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/36-401/HW3/HW3.tex",
+				"/Users/lwxted/Desktop/bea-2006.csv",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/interrupt_wrapper.S",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/keyboard_driver.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/console_helper.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/board_game_view.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/title_view.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/README.dox",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/timer_initialize.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/timer_driver.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/shared_game_data.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/scancode_queue.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/instruction_view.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/handler_install.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/game.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/flood_it_board.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/console_driver.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/board_game_view.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/view_helper.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/title_view_private.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/title_view.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/timer_initialize.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/timer_driver.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/shared_game_data.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/scancode_queue.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/keyboard_driver.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/interrupt_wrapper.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/instruction_view_private.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/idt_helper.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/instruction_view.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/flood_it_board_private.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/flood_it_board.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/console_helper.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/board_game_view_private.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/x86/asm.S",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/README.STARTING_P1",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/spec/p1kern.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/x86/video_defines.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/view_helper.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/inc/assert.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/p1test/410_test.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/config.mk",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/temp/board_game.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/temp/board_game.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/board_game.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/board_game.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/x86/interrupt_defines.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/x86/timer_defines.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/fake.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/drivers.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/timer_handler.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/timer_handler.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/inc/timer_interrupt.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/interrupt_wrapper.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/scancode_queue.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/board_game.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/RNG/mt19937int.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/x86/keyhelp.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/x86/keyhelp.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/string/string.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/stdio/stdio.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/RNG/mt19937int.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/stdio/sscanf.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/stdio/putchar.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/boot/util.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/misc/semisolver.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/spec/syscall_int.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/x86/interrupts.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/x86/asm.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/timer_interrupt_wrapper.S",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/boot/head.S",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/stdio/doprnt.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/kern/timer_interrupt_handler.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/x86/seg.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/x86/pic.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/entry.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/x86/idt.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/.md5s",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/stdio/puts.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/stdio/printf.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/simics/simics.h",
+				"/Users/lwxted/Desktop/a.py",
+				"/Users/lwxted/Desktop/interview",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/simics/simics_c.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/simics/simics.S",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/simics/kernel.mk",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/inc/malloc.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/inc/asm_style.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/malloc/calloc.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p1/p1/410kern/kernel.lds",
+				"/Users/lwxted/Documents/repo/competition_programming/ctci/110_9_10.cpp",
+				"/Users/lwxted/Documents/repo/competition_programming/ctci/110_9_11.py",
+				"/Users/lwxted/Documents/repo/competition_programming/ctci/110_9_8.py",
+				"/Users/lwxted/Documents/repo/competition_programming/ctci/110_9_10.py",
+				"/Users/lwxted/Documents/repo/competition_programming/ctci/basic_algos.py",
+				"/Users/lwxted/Documents/repo/competition_programming/ctci/110_9_8.cpp",
+				"/Users/lwxted/Documents/repo/competition_programming/ctci/110_9_6.py",
+				"/Users/lwxted/Documents/repo/competition_programming/ctci/109_9_5.py",
+				"/Users/lwxted/Desktop/crawlers/tmp.py",
+				"/Users/lwxted/Desktop/crawlers/temp.py",
+				"/Users/lwxted/Desktop/crawlers/163.py",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/36-401/HW1.tex",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p0/doxygen.conf",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p0/README.elftools",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p0/tests/alarming_test.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p0/symtabgen.py",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p0/tests/evil_test.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p0/tests/tmp-sample-output",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p0/traceback/traceback2.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p0/doxygen.warn",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p0/traceback/system_util.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p0/traceback/traceback_internal.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p0/tests/my_test.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p0/traceback/system_util.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p0/tests/my_recur.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p0/traceback/traceback_util.c",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p0/traceback/traceback_util.h",
+				"/Users/lwxted/Dropbox/Carnegie Mellon University/Courses/5, 15F/15-410/projects/p0/traceback/traceback_helpers.h"
 			],
 			"find":
 			{
@@ -238,6 +1726,7 @@
 				"height": 170.0,
 				"where_history":
 				[
+					""
 				]
 			},
 			"find_state":
@@ -245,7 +1734,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"preap"
+					"git",
+					"    ",
+					"#define",
+					"status",
+					"readfile",
+					"fork",
+					"y_i",
+					"x_i",
+					"y_i",
+					"\\overline{X_i}",
+					"enable_interrupts()",
+					"enable_interrupt()",
+					"assert(",
+					"idt_base",
+					"extern int",
+					"extern'",
+					"100",
+					"% 25 ==",
+					"25",
+					"last_flash_cursor",
+					"flash_cursor",
+					"% 25",
+					"25",
+					"disable_interrupts();",
+					"enable_interrupts()",
+					"enable_interrupt()",
+					"enable_interrupt",
+					"fixme",
+					"todo",
+					"term_color",
+					"todo",
+					"putbytes",
+					"readchar()",
+					"readchar",
+					"tv_main_loop",
+					"tv_register_keypress",
+					"COLOR_LIGHT",
+					"enable_interrupts",
+					"assert(!ret_",
+					"bgv_init",
+					"iv_draw_instructions",
+					"iv_handle_keypress",
+					"iv_main_loop",
+					"timer_initialize",
+					"board_get",
+					"board_generate_random",
+					"iv_register_keypress",
+					"disable_interrupts",
+					"board_fill_color",
+					"board_init",
+					"num_ticks",
+					"set_cursor",
+					"hide_cursor",
+					"video_memory_at",
+					"console_width",
+					"fixme",
+					"todo",
+					"recent victories",
+					"NUM_INSTRUCTIONS",
+					"instruction_ops",
+					"instruction_pause",
+					"instruction_ops",
+					"instruction_timer",
+					"todo",
+					"bgv_show_instructions",
+					"DEFAULT_COLOR",
+					"bgv_update_ops",
+					"bgv_mark",
+					"bgv_select",
+					"bgv_check_com",
+					"bgv_show_title_view",
+					"bgv_select",
+					"bgv_center_message_with_color",
+					"bgv_main_loop",
+					"bgv_register_keypress",
+					"bgv_register",
+					"bgv_handle_keypress",
+					"bgv_draw_instructions",
+					"fixme",
+					"todo",
+					"tv_draw_all",
+					"iv_init",
+					"readchar(",
+					"sgenrand",
+					"fixme",
+					"bgv_flash_cursor",
+					"last_flash_cursor",
+					"bgv_flash_cursor",
+					"cursor_flash_on",
+					"flash_cursor",
+					"bgv_flash_cursor",
+					"board_color(",
+					"sel_row",
+					"if (!",
+					"game_paused",
+					"!game_paused",
+					"game.c",
+					"seconds_elapsed",
+					"last_seconds_elapsed",
+					"addr",
+					"secondsElapsed",
+					"most recent games",
+					"sgenrand",
+					"srand",
+					"bgv_victory",
+					"victory",
+					"bgv_update_timer",
+					"seconds_elapsed",
+					"update_timer",
+					"update_time",
+					"seconds_elapsed",
+					"extern int",
+					"extern int se",
+					"seconds_elapsed",
+					"secondsElapsed",
+					"seconds_elapsed",
+					"_e",
+					"secondsElapsed",
+					"time_row_pos",
+					"ops",
+					"lastSecondsElapsed",
+					"secondsElapsed",
+					"register_key",
+					"color_scoreboard",
+					"COLOR_SELECTING",
+					"blue",
+					"scoreboard",
+					"scoreboard_width"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -263,39 +1879,8 @@
 			"groups":
 			[
 				{
-					"selected": 0,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 435,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										435,
-										435
-									]
-								],
-								"settings":
-								{
-									"auto_indent": false,
-									"incomplete_sync": null,
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"word_wrap": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
 					]
 				}
 			],
@@ -330,16 +1915,20 @@
 				]
 			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 212.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
 			"output.sftp":
 			{
-				"height": 0.0
+				"height": 102.0
 			},
 			"pinned_build_system": "",
-			"position": "0 562 281 1436 877 0 0 2560 1417 ",
+			"position": "0 460 0 755 1027 0 0 1680 1027 ",
 			"project": "",
 			"replace":
 			{
@@ -352,6 +1941,518 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"libsyscall",
+						"user/libsyscall/syscall.c"
+					],
+					[
+						"libsyscall.a",
+						"user/libsyscall/syscall.c"
+					],
+					[
+						"readm",
+						"README.dox"
+					],
+					[
+						"handler",
+						"kern/handler_install.c"
+					],
+					[
+						"dox",
+						"README.dox"
+					],
+					[
+						"shared",
+						"kern/shared_game_data.c"
+					],
+					[
+						"scanc",
+						"kern/scancode_queue.c"
+					],
+					[
+						"scancod",
+						"kern/inc/scancode_queue.h"
+					],
+					[
+						"timer_",
+						"kern/timer_initialize.c"
+					],
+					[
+						"tit",
+						"kern/title_view.c"
+					],
+					[
+						"titl",
+						"kern/inc/title_view.h"
+					],
+					[
+						"driver",
+						"kern/keyboard_driver.c"
+					],
+					[
+						"keyboard_",
+						"kern/keyboard_driver.c"
+					],
+					[
+						"vide",
+						"410kern/x86/video_defines.h"
+					],
+					[
+						"console",
+						"kern/console_driver.c"
+					],
+					[
+						"title_v",
+						"kern/inc/title_view_private.h"
+					],
+					[
+						"board_",
+						"kern/board_game_view.c"
+					],
+					[
+						"tite",
+						"kern/inc/title_view.h"
+					],
+					[
+						"view_h",
+						"kern/view_helper.c"
+					],
+					[
+						"video",
+						"410kern/x86/video_defines.h"
+					],
+					[
+						"timer_d",
+						"kern/timer_driver.c"
+					],
+					[
+						"scanco",
+						"kern/scancode_queue.c"
+					],
+					[
+						"floo",
+						"kern/flood_it_board.c"
+					],
+					[
+						"instructio",
+						"kern/instruction_view.c"
+					],
+					[
+						"game.c",
+						"kern/game.c"
+					],
+					[
+						"timer",
+						"kern/timer_driver.c"
+					],
+					[
+						"keyboard_dr",
+						"kern/keyboard_driver.c"
+					],
+					[
+						"interr",
+						"kern/interrupt_wrapper.S"
+					],
+					[
+						"conso",
+						"kern/inc/console_helper.h"
+					],
+					[
+						"instruct",
+						"kern/instruction_view.c"
+					],
+					[
+						"asser",
+						"410kern/inc/assert.h"
+					],
+					[
+						"assert",
+						"410kern/inc/assert.h"
+					],
+					[
+						"asse",
+						"410kern/inc/assert.h"
+					],
+					[
+						"board_ga",
+						"kern/inc/board_game_view.h"
+					],
+					[
+						"instruc",
+						"kern/instruction_view.c"
+					],
+					[
+						"410",
+						"410kern/p1test/410_test.c"
+					],
+					[
+						"410_te",
+						"410kern/p1test/410_test.c"
+					],
+					[
+						"p1ker",
+						"spec/p1kern.h"
+					],
+					[
+						"board",
+						"kern/inc/board_game_view.h"
+					],
+					[
+						"game",
+						"kern/game.c"
+					],
+					[
+						"confi",
+						"config.mk"
+					],
+					[
+						"bgv",
+						"kern/board_game_view.c"
+					],
+					[
+						"shared_",
+						"kern/shared_game_data.c"
+					],
+					[
+						"tv_",
+						"kern/title_view.c"
+					],
+					[
+						"tv",
+						"kern/inc/title_view.h"
+					],
+					[
+						"bgv_",
+						"kern/board_game_view.c"
+					],
+					[
+						"board_game",
+						"kern/inc/board_game_view.h"
+					],
+					[
+						"gam",
+						"kern/board_game_view.c"
+					],
+					[
+						"view",
+						"kern/inc/view_helper.h"
+					],
+					[
+						"view_",
+						"kern/view_helper.c"
+					],
+					[
+						"consol",
+						"kern/inc/console_helper.h"
+					],
+					[
+						"vid",
+						"410kern/x86/video_defines.h"
+					],
+					[
+						"console_",
+						"kern/console_helper.c"
+					],
+					[
+						"title_",
+						"kern/inc/title_view.h"
+					],
+					[
+						"title",
+						"kern/title_view.c"
+					],
+					[
+						"instruction",
+						"kern/instruction_view.c"
+					],
+					[
+						"view_he",
+						"kern/view_helper.c"
+					],
+					[
+						"flo",
+						"kern/inc/flood_it_board.h"
+					],
+					[
+						"flood",
+						"kern/flood_it_board.c"
+					],
+					[
+						"titlve",
+						"kern/inc/title_view.h"
+					],
+					[
+						"baord_g",
+						"kern/inc/board_game_view.h"
+					],
+					[
+						"conf",
+						"config.mk"
+					],
+					[
+						"p1ke",
+						"spec/p1kern.h"
+					],
+					[
+						"define",
+						"410kern/x86/interrupt_defines.h"
+					],
+					[
+						"board_gam",
+						"kern/board_game.c"
+					],
+					[
+						"vdi",
+						"410kern/x86/video_defines.h"
+					],
+					[
+						"title_vi",
+						"kern/inc/title_view.h"
+					],
+					[
+						"console_dri",
+						"kern/console_driver.c"
+					],
+					[
+						"p1k",
+						"spec/p1kern.h"
+					],
+					[
+						"config",
+						"config.mk"
+					],
+					[
+						"410_",
+						"410kern/p1test/410_test.c"
+					],
+					[
+						"timer_def",
+						"410kern/x86/timer_defines.h"
+					],
+					[
+						"interrupt_wrapper",
+						"kern/inc/interrupt_wrapper.h"
+					],
+					[
+						"p1",
+						"spec/p1kern.h"
+					],
+					[
+						"kern.h",
+						"spec/p1kern.h"
+					],
+					[
+						"timer_defines",
+						"410kern/x86/timer_defines.h"
+					],
+					[
+						"interrupt_defines",
+						"410kern/x86/interrupt_defines.h"
+					],
+					[
+						"interrupt",
+						"kern/interrupt_wrapper.S"
+					],
+					[
+						"dirver",
+						"kern/drivers.c"
+					],
+					[
+						"intt",
+						"kern/inc/interrupt_wrapper.h"
+					],
+					[
+						"gmae.c",
+						"kern/game.c"
+					],
+					[
+						"scancode_",
+						"kern/scancode_queue.c"
+					],
+					[
+						"vi",
+						"410kern/x86/video_defines.h"
+					],
+					[
+						"string",
+						"410kern/string/string.h"
+					],
+					[
+						"stdio",
+						"410kern/stdio/stdio.h"
+					],
+					[
+						"19937",
+						"410kern/RNG/mt19937int.c"
+					],
+					[
+						"mt19937int.h",
+						"410kern/RNG/mt19937int.h"
+					],
+					[
+						"keyhelp.c",
+						"410kern/x86/keyhelp.c"
+					],
+					[
+						"keyhelp",
+						"410kern/x86/keyhelp.h"
+					],
+					[
+						"game.",
+						"kern/game.c"
+					],
+					[
+						"putchar.c",
+						"410kern/stdio/putchar.c"
+					],
+					[
+						"key",
+						"410kern/x86/keyhelp.h"
+					],
+					[
+						"fake",
+						"kern/fake.c"
+					],
+					[
+						"interrup",
+						"kern/interrupt_wrapper.S"
+					],
+					[
+						"keyhel",
+						"410kern/x86/keyhelp.c"
+					],
+					[
+						"timer_interrupt_wrapper",
+						"kern/timer_interrupt_wrapper.S"
+					],
+					[
+						"asm.h",
+						"410kern/x86/asm.h"
+					],
+					[
+						"interrupt_def",
+						"410kern/x86/interrupt_defines.h"
+					],
+					[
+						"timer_dr",
+						"kern/timer_driver.c"
+					],
+					[
+						"410_tst",
+						"410kern/p1test/410_test.c"
+					],
+					[
+						"asm",
+						"410kern/x86/asm.h"
+					],
+					[
+						"inter",
+						"410kern/x86/interrupt_defines.h"
+					],
+					[
+						"seg.h",
+						"410kern/x86/seg.h"
+					],
+					[
+						"idt",
+						"410kern/x86/idt.h"
+					],
+					[
+						"timer_defines.h",
+						"410kern/x86/timer_defines.h"
+					],
+					[
+						"puts",
+						"410kern/stdio/puts.c"
+					],
+					[
+						"printf",
+						"410kern/stdio/printf.c"
+					],
+					[
+						"putch",
+						"410kern/stdio/putchar.c"
+					],
+					[
+						"putchar",
+						"410kern/stdio/putchar.c"
+					],
+					[
+						"stdio.c",
+						"410kern/stdio/puts.c"
+					],
+					[
+						"p1kern",
+						"spec/p1kern.h"
+					],
+					[
+						"video_defines.h",
+						"410kern/x86/video_defines.h"
+					],
+					[
+						"asm.s",
+						"410kern/x86/asm.S"
+					],
+					[
+						"9_5",
+						"109_9_5.py"
+					],
+					[
+						"doxy",
+						"doxygen.conf"
+					],
+					[
+						"reade",
+						"README.elftools"
+					],
+					[
+						"rea",
+						"README.STARTING_P0"
+					],
+					[
+						"my_test",
+						"tests/my_test.c"
+					],
+					[
+						"traceback_",
+						"traceback/traceback_internal.h"
+					],
+					[
+						"traceback.h",
+						"traceback/traceback.h"
+					],
+					[
+						"add",
+						"tests/add_one.S"
+					],
+					[
+						"traceback.s",
+						"traceback/traceback_helpers.S"
+					],
+					[
+						"helper",
+						"traceback/traceback_helpers.S"
+					],
+					[
+						"traceback.c",
+						"traceback/traceback2.c"
+					],
+					[
+						"traceback",
+						"traceback/traceback.c"
+					],
+					[
+						"traceback_glo",
+						"traceback/traceback_globals.c"
+					],
+					[
+						"void",
+						"tests/voidstar_test.c"
+					],
+					[
+						"traceback_inter",
+						"traceback/traceback_internal.h"
+					]
 				],
 				"width": 0.0
 			},
@@ -377,16 +2478,16 @@
 			"settings":
 			{
 			},
-			"show_minimap": true,
+			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 208.0,
+			"side_bar_width": 247.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 5,
+			"window_id": 108,
 			"workspace_name": ""
 		}
 	],

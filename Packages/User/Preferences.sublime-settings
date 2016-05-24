@@ -8,9 +8,8 @@
 	"enable_tab_scrolling": false,
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
-	"findreplace_small": true,
-	"font_face": "Ubuntu Mono",
-	"font_size": 17,
+	"font_face": "UbuntuMono-Regular",
+	"font_size": 14,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -22,6 +21,10 @@
 	"match_selection": false,
 	"match_tags": false,
 	"overlay_scroll_bars": "enabled",
+	"predawn_findreplace_small": true,
+	"predawn_sidebar_arrows": false,
+	"predawn_tabs_active_underline": true,
+	"predawn_tabs_small": true,
 	"rulers":
 	[
 		80
@@ -29,10 +32,8 @@
 	"show_full_path": false,
 	"static_modified_tab": true,
 	"tab_size": 2,
-	"tabs_small": true,
-	"theme": "preap.sublime-theme",
+	"theme": "predawn-DEV.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": true,
-	"wrap_width": 80
+	"word_wrap": true
 }

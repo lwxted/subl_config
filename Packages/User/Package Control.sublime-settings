@@ -9,10 +9,12 @@
 		"All Autocomplete",
 		"AutoDocstring",
 		"DocBlockr",
+		"DocBlockr_Python",
 		"LaTeXing",
 		"Package Control",
 		"PackageResourceViewer",
 		"Preap",
+		"Predawn",
 		"Sass",
 		"SASS Build",
 		"SFTP",
@@ -23,6 +25,6 @@
 		"SublimeLinter-pylint",
 		"SublimeOnSaveBuild",
 		"Terminal",
-		"X86 and X86_64 assembly"
+		"x86 and x86_64 Assembly"
 	]
 }
